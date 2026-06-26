@@ -1,8 +1,8 @@
 Projeto CRUD
 
-Este projeto consiste em um software de linha de comando desenvolvido em Python que simula, de forma simplificada, uma base de inventário de segurança utilizada por equipes de Computação e Cibersegurança.
+    Este projeto consiste em um software de linha de comando desenvolvido em Python que simula, de forma simplificada, uma base de inventário de segurança utilizada por equipes de Computação e Cibersegurança.
 
-O objetivo principal da aplicação é permitir o controle centralizado do ciclo de vida dos ativos tecnológicos de uma organização e o monitoramento das brechas de segurança associadas a eles. Através de operações completas de CRUD (Cadastro, Consulta, Atualização e Remoção), o sistema ajuda a acompanhar quais equipamentos, sistemas ou serviços estão expostos, quais vulnerabilidades foram detectadas e qual é o status atual de mitigação ou tratamento de cada risco.
+    O objetivo principal da aplicação é permitir o controle centralizado do ciclo de vida dos ativos tecnológicos de uma organização e o monitoramento das brechas de segurança associadas a eles. Através de operações completas de CRUD (Cadastro, Consulta, Atualização e Remoção), o sistema ajuda a acompanhar quais equipamentos, sistemas ou serviços estão expostos, quais vulnerabilidades foram detectadas e qual é o status atual de mitigação ou tratamento de cada risco.
 
 Funcionalidades Principais (CRUD)
 
