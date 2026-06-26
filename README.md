@@ -4,7 +4,7 @@ Projeto CRUD
 
     O objetivo principal da aplicação é permitir o controle centralizado do ciclo de vida dos ativos tecnológicos de uma organização e o monitoramento das brechas de segurança associadas a eles. Através de operações completas de CRUD (Cadastro, Consulta, Atualização e Remoção), o sistema ajuda a acompanhar quais equipamentos, sistemas ou serviços estão expostos, quais vulnerabilidades foram detectadas e qual é o status atual de mitigação ou tratamento de cada risco.
 
-Funcionalidades Principais (CRUD)
+Funcionalidades Principais
 
     Gestão de Ativos de TI:
 
