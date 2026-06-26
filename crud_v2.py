@@ -143,5 +143,5 @@ def menu():
         else:
             print("Opção inválida!")
 
-# Executar programa
+# versão final!
 menu()
